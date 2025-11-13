@@ -1,0 +1,10 @@
+# Nmap 7.94SVN scan initiated Thu Nov 13 09:14:10 2025 as: nmap -sS -sV -p 8080 -oN kali_port8080.txt localhost
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.000079s latency).
+Other addresses for localhost (not scanned): ::1
+
+PORT     STATE SERVICE VERSION
+8080/tcp open  http    SimpleHTTPServer 0.6 (Python 3.11.9)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Thu Nov 13 09:14:16 2025 -- 1 IP address (1 host up) scanned in 6.38 seconds

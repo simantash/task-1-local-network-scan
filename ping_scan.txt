@@ -1,0 +1,30 @@
+# Nmap 7.94SVN scan initiated Thu Nov 13 08:44:45 2025 as: nmap -sn -oN ping_scan.txt <local_subnet>/24
+
+Nmap scan report for dsldevice.lan (<masked_IP>)
+Host is up (2.4s latency).
+MAC Address: XX:XX:XX:XX:XX:XX (Unknown)
+
+Nmap scan report for <masked_IP>
+Host is up (3.1s latency).
+MAC Address: XX:XX:XX:XX:XX:XX (Unknown)
+
+Nmap scan report for <masked_IP>
+Host is up (5.7s latency).
+MAC Address: XX:XX:XX:XX:XX:XX (Unknown)
+
+Nmap scan report for <masked_IP>
+Host is up (3.5s latency).
+MAC Address: XX:XX:XX:XX:XX:XX (Intel Corporate)
+
+Nmap scan report for <masked_IP>
+Host is up (3.2s latency).
+MAC Address: XX:XX:XX:XX:XX:XX (Unknown)
+
+Nmap scan report for <masked_IP>
+Host is up (0.78s latency).
+MAC Address: XX:XX:XX:XX:XX:XX (Unknown)
+
+Nmap scan report for <masked_IP>
+Host is up.
+
+# Nmap done at Thu Nov 13 08:45:56 2025 -- 256 IP addresses (7 hosts up) scanned in 70.82 seconds
